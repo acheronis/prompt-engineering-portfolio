@@ -14,3 +14,5 @@
 
 - week-01-basics/ — базовые техники
 - week-02-cot/ — Chain-of-Thought примеры
+- week-03-react/ — ReAct примеры
+- week-04-evaluation/ — оценка промптов

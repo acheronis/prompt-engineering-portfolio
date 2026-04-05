@@ -7,7 +7,7 @@
 - [x] Неделя 1 — Role, Structure, Specificity, Few-shot
 - [x] Неделя 2 — Chain-of-Thought (CoT)
 - [x] Неделя 3 — ReAct
-- [ ] Неделя 4 — Evaluation
+- [x] Неделя 4 — Evaluation
 - [ ] Неделя 5–10 — Проекты и портфолио
 
 ## Структура репозитория

@@ -9,7 +9,7 @@
 - [x] Неделя 3 — ReAct
 - [x] Неделя 4 — Evaluation
 - [x] Неделя 5 — Prompt Library (контент-менеджер, 7 промптов)
-- [ ] Неделя 6 — Prompt Comparison Framework
+- [x] Неделя 6 — Prompt Comparison Framework
 - [ ] Неделя 7 — Реальный кейс до/после
 - [ ] Неделя 8 — Финальный проект
 - [ ] Неделя 9 — Резюме и отклики

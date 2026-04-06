@@ -1,23 +1,42 @@
-# Prompt Engineering Portfolio
+# Prompt Engineering Portfolio — Арсен Сергеян
 
-Учусь prompt engineering с нуля. Здесь фиксирую все техники, примеры и проекты.
+Профессиональная коллекция промптов, систем и кейсов. Специализация: построение надёжных промпт-систем для поддержки, HR, контент-маркетинга и автоматизации процессов.
 
-## Прогресс по неделям
+**Результаты:**
+- Повышение качества ответов чат-бота поддержки с 6.6 до 9.0 (+36%)
+- Система оценки резюме и генерации вопросов с средней оценкой 9.5/10
+- Библиотека из 20+ production-ready промптов с итерациями и метриками
 
-- [x] Неделя 1 — Role, Structure, Specificity, Few-shot
-- [x] Неделя 2 — Chain-of-Thought (CoT)
-- [x] Неделя 3 — ReAct
-- [x] Неделя 4 — Evaluation
-- [x] Неделя 5 — Prompt Library (контент-менеджер, 7 промптов)
-- [x] Неделя 6 — Prompt Comparison Framework
-- [x] Неделя 7 — Реальный кейс до/после
-- [x] Неделя 8 — Финальный проект
-- [x] Неделя 9 — Резюме и отклики
+Используемые модели: Claude 3.5/4, GPT-4o, Grok, Gemini (2025-2026).
 
-## Структура репозитория
+## Ключевые проекты
 
-- week-01-basics/ — базовые техники
-- week-02-cot/ — Chain-of-Thought примеры
-- week-03-react/ — ReAct примеры
-- week-04-evaluation/ — оценка промптов
-- week-05-prompt-library/ — библиотека промптов для контент-менеджера
+### 1. Support Chatbot для магазина одежды
+Реальный кейс. Полная переработка промпта → рост качества ответов на 36%.  
+[→ Открыть кейс](/projects/support-chatbot)
+
+### 2. HR Prompt System
+Многоагентная система: анализ резюме → генерация вопросов → оценка кандидата → обоснованный отказ.  
+Средняя экспертная оценка 9.5/10.  
+[→ Открыть проект](/projects/hr-prompt-system)
+
+### 3. Content Automation Toolkit
+7+ промптов для SMM, SEO, email-рассылок с A/B-тестированием и итерациями.  
+[→ Библиотека](/prompt-library)
+
+## Техники и фреймворки
+- Chain-of-Thought, ReAct, Self-Consistency
+- LLM-as-a-Judge + собственный evaluation framework
+- Prompt comparison matrix (baseline vs Role+Spec vs Few-shot vs CoT vs ReAct)
+
+## Как читать это портфолио
+Каждый проект содержит:
+- Задачу и бизнес-контекст
+- Итерации промптов (v1 → vN)
+- Input → Output примеры
+- Метрики качества (10-балльная + качественный анализ)
+- Уроки и production-рекомендации
+
+GitHub: https://github.com/acheronis/prompt-engineering-portfolio  
+Telegram: [твой]  
+Email: [твой]

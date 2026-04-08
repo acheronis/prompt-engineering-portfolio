@@ -40,7 +40,12 @@
 Полный цикл: приветствие → специалист → время → данные → подтверждение.
 [→ Открыть проект](./projects/dialog-system/README.md)
 
-### 5. Content Automation Toolkit
+### 5. RAG Prompt System — база знаний магазина
+Система промптов для RAG архитектуры.
+Модель отвечает строго по базе знаний, не галлюцинирует при отсутствии данных.
+[→ Открыть проект](./projects/rag-system/README.md)
+
+### 6. Content Automation Toolkit
 Библиотека из 7 промптов для SMM, SEO и email.
 Средняя оценка: 9.3/10.
 [→ Открыть библиотеку](./prompt-library/content-prompts.md)

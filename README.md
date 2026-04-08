@@ -18,7 +18,7 @@
 ### 2. HR Prompt System
 Многоагентная система: анализ резюме → вопросы → оценка → отказ.  
 Средняя оценка 9.5/10.  
-[→ Открыть систему](/projects/hr-prompt-system)
+[→ Открыть систему](./projects/hr-system/README.md)
 
 ### 3. Content Automation Toolkit
 Библиотека промптов для SMM, SEO и email.  

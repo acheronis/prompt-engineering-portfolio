@@ -55,6 +55,11 @@
 RAG промпт + логика эскалации + Telegram интеграция.
 [→ Открыть проект](./projects/ai-agent-bot/README.md)
 
+### 8. Prompt Comparison Framework
+Систематическое сравнение 5 техник на одной задаче с метриками.
+Baseline vs Role vs Few-shot vs CoT vs ReAct.
+[→ Открыть проект](./projects/prompt-comparison/README.md)
+
 ---
 
 ## Техники

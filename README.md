@@ -62,6 +62,11 @@ RAG система в Dify. Гибридный поиск. Контроль га
 [→ Открыть проект](./projects/dify-workflow/README.md)
 
 
+### 11. Weather AI Agent — утренний брифинг в Telegram
+Реальный агент: погода через API → LLM анализ → Telegram.
+Работает автоматически каждое утро в 8:00.
+[→ Открыть проект](./projects/weather-agent/README.md)
+
 ---
 
 ## Техники
